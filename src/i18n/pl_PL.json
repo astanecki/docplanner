@@ -1,0 +1,20 @@
+{
+   "WIDGET": {
+        "CREATE_YOUR_WIDGET": "Stwórz własny widget",
+        "CONNECT_DOCPLANNER_WITH_YOUR_WEBSITE": "Połącz profil na ZnanyLekarz z Twoją stroną internetową. Pozwól swoim pacjentom bezpośrednio umawiać wizyty i dzielić się opiniami.",
+        "FIND_YOUR_PROFILE": "Wyszukaj swój profil na ZnanyLekarz lub wprowadź link do profilu.",
+        "SELECT_TYPE_FROM_RECOMMENDED": "Wybierz jeden z rekomendowanych typów widgetów",
+        "WITH_CALENDAR": "Z kalendarzem",
+        "SIMPLE_LINK": "Prosty link",
+        "STANDARD": "Standardowy",
+        "STANDARD_WITH_OPINION": "Standardowy z opinią",
+        "BUTTON": "Przycisk",
+        "FLOAT_BUTTON": "Pływający przycisk",
+        "CERTIFICATE": "Certyfikat",
+        "ONLY_ONE_STEP_LEFT": "Jeszcze tylko jeden krok dzieli Cię od połączenia profilu na ZnanyLekarz z Twoją stroną internetową.",
+        "HOW_TO_ADD_MY_WEBSITE": "Jak dodać widget na moją stronę?",
+        "DO_YOU_NEED_SUPPORT": "Potrzebujesz wsparcia?",
+        "DONT_PANIC": "O nic się nie martw. Nasi specjaliści przygotują i dodadzą widget na Twoją stronę internetową. Jeśli chcesz bezpłatnie skorzystać z tej możliwości, [link]",
+        "GENERATE_CODE_OF_WIDGET": "Wygeneruj kod widgetu"
+   }
+}
